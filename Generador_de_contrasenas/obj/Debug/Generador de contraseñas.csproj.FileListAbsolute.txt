@@ -1,0 +1,19 @@
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe.config
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.PantallaPrincipal.resources
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.Properties.Resources.resources
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csproj.GenerateResource.Cache
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.pdb
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\bin\Debug\MaterialSkin.dll
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.exe
+C:\Users\Alfredo\Desktop\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe.config
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.exe
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\bin\Debug\Generador de contraseñas.pdb
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.PantallaPrincipal.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador_de_contraseñas.Properties.Resources.resources
+C:\Users\Alfredo\Documents\Universidad de Guadalajara CUCEI\Computación Proyectos Extra\C# y SQL Server\Generador de contraseñas\Generador de contraseñas\obj\Debug\Generador de contraseñas.csproj.GenerateResource.Cache
